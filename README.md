@@ -13,7 +13,7 @@ This assumes you have [node-red](http://nodered.org/) already installed and work
 NOTE: node-red-contrib-home-assistant requires node.JS > 8.0  If you're running Node-Red in Docker you'll need to pull the -v8 image for this to work.
 
 ```shell
-$ cd cd ~/.node-red
+$ cd ~/.node-red
 $ npm install node-red-contrib-home-assistant
 # then restart node-red
 ```
